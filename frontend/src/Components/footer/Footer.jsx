@@ -38,7 +38,7 @@ const Footer = () => {
             <div className='flex flex-col'>
              <a className='uppercase text-red-500 font-bold text-5xl' href="">E-Shop</a>
              <div className='opacity-50'>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
+              <p>Develop by mr Khatri. </p>
               <p>Made with 💔 by Bhuwan Khatri</p>
               <p>Vist Our Youtube Channel</p>
              </div>
